@@ -338,6 +338,11 @@ Jika dikembangkan menjadi perangkat nyata:
 | Aktuator utama | Relay Module |
 | Antarmuka | LCD 16×2 I2C dan Serial Monitor |
 
+## 🖼️ Screenshoot Prototype Wokwi 
+
+<img width="592" height="587" alt="file_0000000078908211800078fa1175d940" src="https://github.com/user-attachments/assets/91e67b04-5416-4bf0-aeae-5175a247fb50" />
+
+
 ## 📜 Lisensi
 
 Proyek ini dapat menggunakan lisensi MIT. Tambahkan file `LICENSE` berisi teks lisensi MIT apabila ingin mendistribusikan kode dengan ketentuan tersebut.
